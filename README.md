@@ -28,5 +28,10 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 
 This project is licensed under the [MIT License](LICENSE).
 
+<<<<<<< HEAD
 add something by local
 add something from web github
+=======
+add this edit
+add something from web github
+>>>>>>> f7d6cd4a2bc35e3cad20622b5a35c3ba4f246e7c
